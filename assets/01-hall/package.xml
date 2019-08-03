@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="b64c9m7o" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ym9w0" name="bg_hall.jpg" path="/image/bg/"/>
+    <image id="ym9w1" name="bg_load.jpg" path="/image/bg/"/>
+    <image id="ym9w2" name="bg_login.jpeg" path="/image/bg/"/>
+    <image id="ym9w3" name="bg_tip.jpeg" path="/image/bg/"/>
+    <component id="ym9w4" name="tipLayer.xml" path="/" exported="true"/>
+    <component id="ym9w5" name="loadLayer.xml" path="/" exported="true"/>
+    <component id="ym9w7" name="loginLayer.xml" path="/" exported="true"/>
+    <image id="ym9w9" name="btn_account.png" path="/image/login/"/>
+    <image id="ym9wa" name="btn_guest.png" path="/image/login/"/>
+    <image id="ym9wb" name="btn_wechat.png" path="/image/login/"/>
+    <component id="ym9wc" name="btn_guest.xml" path="/unit/login/"/>
+    <component id="ym9wd" name="btn_account.xml" path="/unit/login/"/>
+    <component id="ym9we" name="btn_wechat.xml" path="/unit/login/"/>
+    <component id="ym9wf" name="hallLayer.xml" path="/" exported="true"/>
+    <image id="ym9wg" name="bg_890.png" path="/image/bg/"/>
+    <image id="ym9wh" name="bg_bottom.png" path="/image/hall/"/>
+    <image id="ym9wi" name="bg_coin.png" path="/image/hall/"/>
+    <image id="ym9wj" name="bg_top.png" path="/image/hall/"/>
+    <image id="ym9wk" name="bg_userinfo.png" path="/image/hall/"/>
+    <image id="ym9wl" name="bg_head.png" path="/image/hall/"/>
+    <image id="ym9wm" name="btn_add.png" path="/image/hall/"/>
+    <image id="ym9wn" name="img_coin.png" path="/image/hall/"/>
+    <image id="ym9wo" name="bank_icon.png" path="/image/hall/"/>
+    <image id="ym9wp" name="btn_bank.png" path="/image/hall/"/>
+    <image id="ym9wt" name="btn_mail.png" path="/image/hall/"/>
+    <image id="ym9wu" name="btn_setting.png" path="/image/hall/"/>
+    <image id="ym9wv" name="icon_bank.png" path="/image/hall/"/>
+    <component id="ym9ww" name="icon_bank.xml" path="/unit/hall/"/>
+    <component id="ym9wz" name="btn_bank.xml" path="/unit/hall/"/>
+    <component id="ym9w10" name="btn_mail.xml" path="/unit/hall/"/>
+    <component id="fczk12" name="btn_setting.xml" path="/unit/hall/"/>
+    <image id="fczk13" name="btn_share.png" path="/image/hall/"/>
+    <component id="fczk16" name="btn_share.xml" path="/unit/hall/"/>
+    <image id="fczk17" name="item_BENZ.png" path="/image/hall/"/>
+    <image id="fczk18" name="item_Birds.png" path="/image/hall/"/>
+    <image id="fczk19" name="item_FISH.png" path="/image/hall/"/>
+    <image id="fczk1a" name="item_LHD.png" path="/image/hall/"/>
+    <image id="fczk1b" name="item_MJ.png" path="/image/hall/"/>
+    <image id="fczk1c" name="item_NN.png" path="/image/hall/"/>
+    <image id="fczk1d" name="item_QHB.png" path="/image/hall/"/>
+    <image id="fczk1e" name="item_SLOTS.png" path="/image/hall/"/>
+    <image id="fczk1f" name="item_TTZ.png" path="/image/hall/"/>
+    <image id="fczk1g" name="item_WZQ.png" path="/image/hall/"/>
+    <image id="fczk1h" name="item_ZJH.png" path="/image/hall/"/>
+    <image id="fczk1i" name="mask_coming.png" path="/image/hall/"/>
+    <component id="fczk1j" name="btn_fruit.xml" path="/unit/hall/"/>
+    <component id="fczk1k" name="btn_benz.xml" path="/unit/hall/"/>
+    <component id="fczk1l" name="btn_birds.xml" path="/unit/hall/"/>
+    <component id="fczk1m" name="btn_fish.xml" path="/unit/hall/"/>
+    <component id="fczk1n" name="btn_lhd.xml" path="/unit/hall/"/>
+    <component id="fczk1o" name="btn_nn.xml" path="/unit/hall/"/>
+    <component id="fczk1p" name="btn_game.xml" path="/unit/hall/"/>
+  </resources>
+  <publish name="01-hall"/>
+</packageDescription>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <controller name="fruit" pages="0,mary,1,help,2,setting" selected="0"/>
+  <displayList>
+    <image id="n0_txv5" name="n0" src="txv53" fileName="image/game/Background.png" xy="0,3" size="1280,720"/>
+    <image id="n1_txv5" name="n1" src="txv54" fileName="image/game/bj.png" xy="0,1" size="1280,720"/>
+    <component id="n83_copa" name="btn_back" src="copa2a" fileName="unit/btn_back.xml" xy="100,20"/>
+    <image id="n46_txv5" name="n46" src="txv5e" fileName="image/game/img-gamels-jiangbei.png" xy="935,35"/>
+    <component id="n84_copa" name="n84" src="copa2b" fileName="unit/btn_setting.xml" xy="1030,25"/>
+    <image id="n47_txv5" name="n47" src="txv51c" fileName="image/game/图层120.png" xy="1140,23"/>
+    <image id="n6_txv5" name="n6" src="txv58" fileName="image/game/图层271.png" xy="89,152" size="109,408" group="n67_txv5"/>
+    <image id="n5_txv5" name="n5" src="txv59" fileName="image/game/图层269.png" xy="1028,158" size="106,408" group="n67_txv5"/>
+    <image id="n4_txv5" name="n4" src="txv57" fileName="image/game/lhj_jz_di.png" xy="188,59" size="847,502" group="n67_txv5"/>
+    <image id="n16_txv5" name="n16" src="txv5n" fileName="image/game/img_JiangChiLeiJi_0.png" xy="485,67" group="n67_txv5"/>
+    <image id="n3_txv5" name="n3" src="txv56" fileName="image/game/lhj_zt.png" xy="249,167" size="721,353" group="n67_txv5"/>
+    <movieclip id="n80_xfx7" name="n80" src="xfx724" fileName="image/game/deng.jta" xy="189,117" group="n67_txv5"/>
+    <group id="n67_txv5" name="n67" xy="89,59" size="1045,507" collapsed="true"/>
+    <list id="n49_txv5" name="list1" xy="271,180" size="140,430" group="n66_txv5" scale="0.75,0.75" selectionMode="none" overflow="scroll" scrollBarFlags="64" defaultItem="ui://ljngqkiwlonu2c" align="center" vAlign="middle" renderOrder="arch">
+      <item icon="ui://ljngqkiwtxv51e"/>
+      <item icon="ui://ljngqkiwtxv51f"/>
+      <item icon="ui://ljngqkiwtxv51h"/>
+    </list>
+    <list id="n61_txv5" name="list2" xy="410,180" size="140,430" group="n66_txv5" scale="0.75,0.75" selectionMode="none" overflow="scroll" defaultItem="ui://ljngqkiwlonu2c" align="center" vAlign="middle" renderOrder="descent">
+      <item url="ui://ljngqkiwtxv51e"/>
+      <item url="ui://ljngqkiwtxv51f"/>
+      <item url="ui://ljngqkiwtxv51p"/>
+      <item url="ui://ljngqkiwtxv51h"/>
+      <item url="ui://ljngqkiwtxv51i"/>
+      <item url="ui://ljngqkiwtxv51j"/>
+      <item url="ui://ljngqkiwtxv51k"/>
+    </list>
+    <list id="n62_txv5" name="list3" xy="550,180" size="140,430" group="n66_txv5" scale="0.75,0.75" selectionMode="none" overflow="scroll" defaultItem="ui://ljngqkiwlonu2c" align="center" vAlign="middle" renderOrder="descent">
+      <item url="ui://ljngqkiwtxv51e"/>
+      <item url="ui://ljngqkiwtxv51f"/>
+      <item url="ui://ljngqkiwtxv51p"/>
+      <item url="ui://ljngqkiwtxv51h"/>
+      <item url="ui://ljngqkiwtxv51i"/>
+      <item url="ui://ljngqkiwtxv51j"/>
+      <item url="ui://ljngqkiwtxv51k"/>
+    </list>
+    <list id="n63_txv5" name="list4" xy="700,180" size="140,430" group="n66_txv5" scale="0.75,0.75" selectionMode="none" overflow="scroll" defaultItem="ui://ljngqkiwlonu2c" align="center" vAlign="middle" renderOrder="descent">
+      <item url="ui://ljngqkiwtxv51e"/>
+      <item url="ui://ljngqkiwtxv51f"/>
+      <item url="ui://ljngqkiwtxv51p"/>
+      <item url="ui://ljngqkiwtxv51h"/>
+      <item url="ui://ljngqkiwtxv51i"/>
+      <item url="ui://ljngqkiwtxv51j"/>
+      <item url="ui://ljngqkiwtxv51k"/>
+    </list>
+    <list id="n64_txv5" name="list5" xy="850,180" size="140,430" group="n66_txv5" scale="0.75,0.75" selectionMode="none" overflow="scroll" defaultItem="ui://ljngqkiwlonu2c" align="center" vAlign="middle" renderOrder="descent">
+      <item url="ui://ljngqkiwtxv51e"/>
+      <item url="ui://ljngqkiwtxv51f"/>
+      <item url="ui://ljngqkiwtxv51p"/>
+      <item url="ui://ljngqkiwtxv51h"/>
+      <item url="ui://ljngqkiwtxv51i"/>
+      <item url="ui://ljngqkiwtxv51j"/>
+      <item url="ui://ljngqkiwtxv51k"/>
+    </list>
+    <group id="n66_txv5" name="n66" xy="271,180" size="719,430" collapsed="true"/>
+    <image id="n7_txv5" name="n7" src="txv5a" fileName="image/game/wjxx_di.png" xy="0,607" size="1280,117" group="n68_txv5"/>
+    <image id="n9_txv5" name="n9" src="txv5c" fileName="image/game/tc_hy_di.png" xy="72,611" group="n68_txv5"/>
+    <image id="n15_txv5" name="n15" src="txv5q" fileName="image/game/图层168.png" xy="382,643" group="n68_txv5"/>
+    <image id="n17_txv5" name="n17" src="txv5h" fileName="image/game/img_Di06.png" xy="382,670" group="n68_txv5"/>
+    <image id="n10_txv5" name="n10" src="txv5d" fileName="image/game/图层129_0.png" xy="1010,631" group="n68_txv5"/>
+    <component id="n42_txv5" name="btn_start" src="txv51b" fileName="image/game/BtnStart.xml" xy="1136,633" size="107,82" group="n68_txv5">
+      <Button icon="ui://ljngqkiwtxv5r" selectedIcon="ui://ljngqkiwtxv5r"/>
+    </component>
+    <group id="n68_txv5" name="group_bottom" xy="0,607" size="1280,120" collapsed="true"/>
+    <image id="n82_xfx7" name="n82" src="xfx728" fileName="image/game/img_biao.png" xy="747,570" group="n48_txv5"/>
+    <image id="n45_txv5" name="n45" src="txv5p" fileName="image/game/图层160.png" xy="784,603" size="163,35" group="n48_txv5"/>
+    <image id="n81_xfx7" name="n81" src="xfx729" fileName="image/game/img_ZongYaZhuDi.png" xy="741,637" group="n48_txv5"/>
+    <image id="n13_txv5" name="n13" src="txv5i" fileName="image/game/img_Jian03.png" xy="739,635" group="n48_txv5"/>
+    <image id="n12_txv5" name="n12" src="txv5j" fileName="image/game/img_Jia03.png" xy="947,635" group="n48_txv5"/>
+    <group id="n48_txv5" name="n48" xy="739,570" size="251,145" collapsed="true"/>
+    <image id="n51_txv5" name="n51" src="txv51r" fileName="image/game/img_AnNiuDi.png" xy="1136,438" group="n56_txv5"/>
+    <image id="n52_txv5" name="n52" src="txv51q" fileName="image/game/btn_AnNiu.png" xy="1138,574" group="n56_txv5"/>
+    <image id="n53_txv5" name="n53" src="txv51q" fileName="image/game/btn_AnNiu.png" xy="1138,532" group="n56_txv5"/>
+    <image id="n54_txv5" name="n54" src="txv51q" fileName="image/game/btn_AnNiu.png" xy="1138,490" group="n56_txv5"/>
+    <image id="n55_txv5" name="n55" src="txv51q" fileName="image/game/btn_AnNiu.png" xy="1138,447" group="n56_txv5"/>
+    <group id="n56_txv5" name="n56" xy="1136,438" size="108,197" visible="false" advanced="true" collapsed="true"/>
+    <image id="n70_txv5" name="line1" src="txv51x" fileName="image/game/line/ID_427.png" xy="226,331" group="n78_txv5" visible="false"/>
+    <image id="n69_txv5" name="line2" src="txv51y" fileName="image/game/line/ID_429.png" xy="224,215" group="n78_txv5" visible="false"/>
+    <image id="n71_txv5" name="line3" src="txv51z" fileName="image/game/line/ID_431.png" xy="227,430" group="n78_txv5" visible="false"/>
+    <image id="n72_txv5" name="line4" src="txv520" fileName="image/game/line/ID_433.png" xy="233,192" group="n78_txv5" visible="false"/>
+    <image id="n73_txv5" name="line5" src="txv51s" fileName="image/game/line/ID_435.png" xy="230,190" group="n78_txv5" visible="false"/>
+    <image id="n74_txv5" name="line6" src="txv51v" fileName="image/game/line/ID_441.png" xy="228,255" group="n78_txv5" visible="false"/>
+    <image id="n75_txv5" name="line7" src="txv51w" fileName="image/game/line/ID_443.png" xy="230,252" group="n78_txv5" visible="false"/>
+    <image id="n76_txv5" name="line8" src="txv51t" fileName="image/game/line/ID_437.png" xy="229,221" group="n78_txv5" visible="false"/>
+    <image id="n77_txv5" name="line9" src="txv51u" fileName="image/game/line/ID_439.png" xy="228,219" group="n78_txv5" visible="false"/>
+    <group id="n78_txv5" name="group_line" xy="224,190" size="769,294" advanced="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ljngqkiw" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="txv50" name="loadlayer.xml" path="/" exported="true"/>
+    <image id="txv51" name="img_ShuiGuoJi_0.png" path="/image/load/"/>
+    <component id="txv52" name="gameLayer.xml" path="/" exported="true"/>
+    <image id="txv53" name="Background.png" path="/image/game/" scale="9grid" scale9grid="8,8,16,16"/>
+    <image id="txv54" name="bj.png" path="/image/game/"/>
+    <image id="txv55" name="lhj_zt_di.png" path="/image/game/"/>
+    <image id="txv56" name="lhj_zt.png" path="/image/game/"/>
+    <image id="txv57" name="lhj_jz_di.png" path="/image/game/"/>
+    <image id="txv58" name="图层271.png" path="/image/game/"/>
+    <image id="txv59" name="图层269.png" path="/image/game/"/>
+    <image id="txv5a" name="wjxx_di.png" path="/image/game/"/>
+    <image id="txv5b" name="deng02.png" path="/image/game/"/>
+    <image id="txv5c" name="tc_hy_di.png" path="/image/game/"/>
+    <image id="txv5d" name="图层129_0.png" path="/image/game/"/>
+    <image id="txv5e" name="img-gamels-jiangbei.png" path="/image/game/"/>
+    <image id="txv5f" name="图层128.png" path="/image/game/"/>
+    <image id="txv5g" name="图层135.png" path="/image/game/"/>
+    <image id="txv5h" name="img_Di06.png" path="/image/game/"/>
+    <image id="txv5i" name="img_Jian03.png" path="/image/game/"/>
+    <image id="txv5j" name="img_Jia03.png" path="/image/game/"/>
+    <image id="txv5k" name="img_Deng02.png" path="/image/game/"/>
+    <image id="txv5l" name="img_Deng03.png" path="/image/game/"/>
+    <image id="txv5m" name="img_Deng04.png" path="/image/game/"/>
+    <image id="txv5n" name="img_JiangChiLeiJi_0.png" path="/image/game/"/>
+    <image id="txv5o" name="img_QuanQuan.png" path="/image/game/"/>
+    <image id="txv5p" name="图层160.png" path="/image/game/"/>
+    <image id="txv5q" name="图层168.png" path="/image/game/"/>
+    <image id="txv5r" name="btn_XuanZhuan02_0.png" path="/image/game/"/>
+    <image id="txv516" name="02.png" path="/image/game/"/>
+    <image id="txv517" name="01.png" path="/image/game/"/>
+    <image id="txv519" name="04.png" path="/image/game/"/>
+    <image id="txv51a" name="05.png" path="/image/game/"/>
+    <component id="txv51b" name="BtnStart.xml" path="/image/game/"/>
+    <image id="txv51c" name="图层120.png" path="/image/game/"/>
+    <image id="txv51d" name="bonus.png" path="/image/game/fruit/" exported="true"/>
+    <image id="txv51e" name="0.png" path="/image/game/fruit/" exported="true"/>
+    <image id="txv51f" name="1.png" path="/image/game/fruit/" exported="true"/>
+    <image id="txv51g" name="-1.png" path="/image/game/fruit/" exported="true"/>
+    <image id="txv51h" name="2.png" path="/image/game/fruit/" exported="true"/>
+    <image id="txv51i" name="3.png" path="/image/game/fruit/" exported="true"/>
+    <image id="txv51j" name="4.png" path="/image/game/fruit/" exported="true"/>
+    <image id="txv51k" name="5.png" path="/image/game/fruit/" exported="true"/>
+    <image id="txv51l" name="6.png" path="/image/game/fruit/" exported="true"/>
+    <image id="txv51m" name="7.png" path="/image/game/fruit/" exported="true"/>
+    <image id="txv51n" name="8.png" path="/image/game/fruit/" exported="true"/>
+    <image id="txv51o" name="9.png" path="/image/game/fruit/" exported="true"/>
+    <image id="txv51p" name="10.png" path="/image/game/fruit/" exported="true"/>
+    <image id="txv51q" name="btn_AnNiu.png" path="/image/game/"/>
+    <image id="txv51r" name="img_AnNiuDi.png" path="/image/game/"/>
+    <image id="txv51s" name="ID_435.png" path="/image/game/line/"/>
+    <image id="txv51t" name="ID_437.png" path="/image/game/line/"/>
+    <image id="txv51u" name="ID_439.png" path="/image/game/line/"/>
+    <image id="txv51v" name="ID_441.png" path="/image/game/line/"/>
+    <image id="txv51w" name="ID_443.png" path="/image/game/line/"/>
+    <image id="txv51x" name="ID_427.png" path="/image/game/line/"/>
+    <image id="txv51y" name="ID_429.png" path="/image/game/line/"/>
+    <image id="txv51z" name="ID_431.png" path="/image/game/line/"/>
+    <image id="txv520" name="ID_433.png" path="/image/game/line/"/>
+    <movieclip id="txv521" name="7-ani.jta" path="/image/game/animation/"/>
+    <image id="xfx722" name="deng01.png" path="/image/game/"/>
+    <movieclip id="xfx724" name="deng.jta" path="/image/game/"/>
+    <image id="xfx728" name="img_biao.png" path="/image/game/"/>
+    <image id="xfx729" name="img_ZongYaZhuDi.png" path="/image/game/"/>
+    <component id="copa2a" name="btn_back.xml" path="/unit/"/>
+    <component id="copa2b" name="btn_setting.xml" path="/unit/"/>
+    <component id="lonu2c" name="btn_fruit.xml" path="/unit/"/>
+  </resources>
+  <publish name="02-fruit"/>
+</packageDescription>

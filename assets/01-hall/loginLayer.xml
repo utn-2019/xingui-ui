@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <image id="n0_ym9w" name="n0" src="ym9w2" fileName="image/bg/bg_login.jpeg" xy="0,0" size="1280,720"/>
+    <component id="n4_ym9w" name="btn_guest" src="ym9wc" fileName="unit/login/btn_guest.xml" xy="280,500" size="180,65"/>
+    <component id="n5_ym9w" name="btn_account" src="ym9wd" fileName="unit/login/btn_account.xml" xy="560,500" size="180,65"/>
+    <component id="n6_ym9w" name="btn_wechat" src="ym9we" fileName="unit/login/btn_wechat.xml" xy="840,500" size="180,65"/>
+  </displayList>
+</component>

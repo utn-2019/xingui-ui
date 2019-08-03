@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <image id="n0_ym9w" name="n0" src="ym9w0" fileName="image/bg/bg_hall.jpg" xy="0,0"/>
+    <image id="n1_ym9w" name="n1" src="ym9wh" fileName="image/hall/bg_bottom.png" xy="-6,645" size="1290,74"/>
+    <image id="n2_ym9w" name="n2" src="ym9wj" fileName="image/hall/bg_top.png" xy="-4,1"/>
+    <image id="n5_ym9w" name="n5" src="ym9wi" fileName="image/hall/bg_coin.png" xy="388,17" group="n9_ym9w"/>
+    <image id="n8_ym9w" name="n8" src="ym9wn" fileName="image/hall/img_coin.png" xy="400,24" group="n9_ym9w"/>
+    <component id="n19_ym9w" name="n19" src="ym9ww" fileName="unit/hall/icon_bank.xml" xy="622,19" size="60,60" group="n9_ym9w"/>
+    <group id="n9_ym9w" name="n9" xy="388,17" size="300,68" collapsed="true"/>
+    <image id="n4_ym9w" name="n4" src="ym9wk" fileName="image/hall/bg_userinfo.png" xy="47,10" group="n10_ym9w"/>
+    <image id="n3_ym9w" name="n3" src="ym9wl" fileName="image/hall/bg_head.png" xy="20,5" group="n10_ym9w"/>
+    <group id="n10_ym9w" name="n10" xy="20,5" size="283,94" collapsed="true"/>
+    <component id="n20_fczk" name="n20" src="ym9w10" fileName="unit/hall/btn_mail.xml" xy="200,665" group="n24_fczk"/>
+    <component id="n21_fczk" name="n21" src="ym9wz" fileName="unit/hall/btn_bank.xml" xy="560,660" group="n24_fczk"/>
+    <component id="n22_fczk" name="n22" src="fczk12" fileName="unit/hall/btn_setting.xml" xy="920,660" group="n24_fczk"/>
+    <group id="n24_fczk" name="n24" xy="200,660" size="841,61" collapsed="true"/>
+    <list id="n23_fczk" name="n23" xy="320,185" size="927,436" layout="flow_hz" overflow="scroll" scroll="horizontal" lineGap="10" colGap="10" lineItemCount="5">
+      <item url="ui://b64c9m7ofczk1p"/>
+      <item url="ui://b64c9m7ofczk1p"/>
+      <item url="ui://b64c9m7ofczk1p"/>
+      <item url="ui://b64c9m7ofczk1p"/>
+      <item url="ui://b64c9m7ofczk1p"/>
+      <item url="ui://b64c9m7ofczk1p"/>
+      <item url="ui://b64c9m7ofczk1p"/>
+      <item url="ui://b64c9m7ofczk1p"/>
+      <item url="ui://b64c9m7ofczk1p"/>
+      <item url="ui://b64c9m7ofczk1p"/>
+    </list>
+    <component id="n28_fczk" name="n28" src="fczk16" fileName="unit/hall/btn_share.xml" xy="1000,20"/>
+    <image id="n31_fczk" name="n31" src="fczk4" fileName="image/notice.png" pkg="b2qkc1md" xy="0,100" size="1280,75"/>
+    <component id="n33_fczk" name="btn_fruit" src="fczk1j" fileName="unit/hall/btn_fruit.xml" xy="20,186" size="286,429" customData="101101"/>
+  </displayList>
+</component>

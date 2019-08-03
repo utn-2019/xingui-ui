@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="b2qkc1md" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ym9w0" name="JingDU01.png" path="/image/loading/" exported="true"/>
+    <image id="ym9w1" name="JingDU02.png" path="/image/loading/" exported="true"/>
+    <component id="ym9w2" name="LoadingBar.xml" path="/unit/" exported="true"/>
+    <image id="fczk4" name="notice.png" path="/image/" exported="true"/>
+    <component id="fczk5" name="LoadCircle.xml" path="/unit/" exported="true"/>
+    <image id="fczk1r" name="load_circle.png" path="/image/loading/" exported="true"/>
+  </resources>
+  <publish name="00-common"/>
+</packageDescription>

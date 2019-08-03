@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <image id="n0_txv5" name="n0" src="txv51" fileName="image/load/img_ShuiGuoJi_0.png" xy="0,0"/>
+    <component id="n2_ym9w" name="loadBar" src="ym9w2" fileName="unit/LoadingBar.xml" pkg="b2qkc1md" xy="332,620">
+      <ProgressBar value="50" max="100"/>
+    </component>
+  </displayList>
+</component>
